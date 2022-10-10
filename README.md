@@ -2,7 +2,7 @@
 - 👀 I’m interested in React js and React Native projects.
 - :book: I'm currently learning unit and integration tests.
 - 🌱 I’m currently looking for freelance projects in React.js or/and React Native.
-- 📫 How to reach me? You can reach me via email or via my personal website https://teodordimitrov.vercel.app
+- 📫 How to reach me? You can reach me via email or use my personal website to contact me https://teodordimitrov.vercel.app
 
 <!---
 TeodorDimitrov89/TeodorDimitrov89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
