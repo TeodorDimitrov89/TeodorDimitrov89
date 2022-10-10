@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Front End developer
+- 👋 Hi, I’m Teodor Dimitrov and I'm a Front End developer
 - 👀 I’m interested in React js and React Native projects.
 - :book: I'm currently learning unit and integration tests.
 - 🌱 I’m currently looking for freelance projects in React.js or/and React Native.
