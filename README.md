@@ -1,6 +1,7 @@
 - 👋 Hi, I’m a Front End developer
-- 👀 I’m interested in React js and React Native projects
-- 🌱 I’m currently looking for freelance projects in React js or/and React Native
+- 👀 I’m interested in React js and React Native projects.
+- :book: I'm currently learning unit and integration tests.
+- 🌱 I’m currently looking for freelance projects in React.js or/and React Native.
 - 📫 How to reach me? You can reach me via email or via my personal website https://teodordimitrov.vercel.app
 
 <!---
