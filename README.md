@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Teodor Dimitrov and I'm a Front End developer
+- 👋 Hi, I’m Teodor Dimitrov and I'm a Software Engineer
 - 👀 I’m interested in React js and React Native or NextJS projects.
 - 📫 How to reach me? You can reach me via email or use my personal website to contact me https://teodordimitrov.vercel.app
 
